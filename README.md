@@ -1,8 +1,8 @@
-# This is my version of the README
+# Hello! This is my Unity study project!
 
 ---
 
-Make sure to personalize your welcome message with something unique!
+Welcome to my Readme!
 
 # BookContents
 Public repo of the Learning C# with Unity 3D book contents
